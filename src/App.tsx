@@ -1,5 +1,5 @@
 function App() {
-  return <div className="App"></div>;
+  return <div className="min-h-screen"></div>;
 }
 
 export default App;
