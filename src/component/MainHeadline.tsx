@@ -15,7 +15,7 @@ const MainHeadline = () => {
         alt="article"
       />
       <div className="mt-6 md:mt-7 grid gap-4 md:grid-cols-2">
-        <h1 className="text-[2.5rem] lg:text-[3.5rem] font-black leading-none">
+        <h1 className="text-[2.5rem] lg:text-[3.5rem] font-extrabold">
           The Bright Future of Web 3.0?
         </h1>
         <div className="">
@@ -24,7 +24,7 @@ const MainHeadline = () => {
             power of the platforms back into the hands of the people. But is it
             really fulfillign its promise?
           </p>
-          <button className="bg-softRed tracking-[4.5px] font-bold text-sm text-offWhite px-8 py-4 leading-none hover:bg-veryDarkBlue">
+          <button className="bg-softRed tracking-[4.5px] font-bold text-sm text-offWhite px-8 py-4 hover:bg-veryDarkBlue">
             READ MORE
           </button>
         </div>
