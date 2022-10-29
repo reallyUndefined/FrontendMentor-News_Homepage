@@ -27,7 +27,7 @@ const TopReads = () => {
   return (
     <section
       aria-label="Top Reads"
-      className="grid gap-8 md:grid-cols-2 lg:grid-cols-3"
+      className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mb-7"
     >
       {topReadsList.map((read) => (
         <div className="flex gap-6">
