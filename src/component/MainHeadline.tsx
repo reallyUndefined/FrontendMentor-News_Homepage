@@ -15,7 +15,7 @@ const MainHeadline = () => {
         alt="article"
       />
       <div className="mt-6 md:mt-7 grid gap-4 md:grid-cols-2">
-        <h1 className="text-[2.5rem] lg:text-[3.5rem] font-extrabold">
+        <h1 className="text-[2.5rem] lg:text-[3.5rem] font-extrabold text-veryDarkBlue">
           The Bright Future of Web 3.0?
         </h1>
         <div className="">
